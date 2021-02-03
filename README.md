@@ -1,6 +1,7 @@
 # SacPyTelegram
 Telegram Python for SacPy Users Group
-I used Telepot originally but discovered is no longer supported
+
+I used Telepot originally but discovered it is no longer supported!  OH OH!
 https://github.com/nickoala/telepot.
 
 So I explored python-telegram-bot as an alternative
